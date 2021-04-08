@@ -1,0 +1,2 @@
+stone_1
+stone_2
